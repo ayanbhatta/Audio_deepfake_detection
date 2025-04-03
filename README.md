@@ -1,5 +1,9 @@
 # Audio Deepfake Detection Project
+
+This project implements an audio deepfake detection system based on research from the [Audio-Deepfake-Detection](https://github.com/media-sec-lab/Audio-Deepfake-Detection) repository.
+
 ## Project Overview
+
 Audio deepfakes pose an emerging threat to digital trust. This project explores existing research approaches and implements a system to identify manipulated audio content. The implementation focuses on extracting handcrafted features from audio samples and using machine learning techniques to distinguish between real and fake audio.
 
 ## Model Selection 
